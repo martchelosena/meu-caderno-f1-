@@ -1,2 +1,13 @@
 # meu-caderno-f1-
 Estudo, quiz e artefatos sobre o universo e o regulamento da Fórmula 1
+\# 🏎️ Caderno de Estudos: Aprendendo Fórmula 1 com Gemini Notebook
+
+Projeto desenvolvido como parte do \*\*Desafio Gemini Notebook\*\*, focado no aprendizado interativo, estruturado e fundamentado sobre os pilares da Fórmula 1.
+
+\## 🎯 1\. Objetivo do Projeto &gt; "Compreender os pilares da Fórmula 1: funcionamento técnico dos carros (aerodinâmica e motorização), regulamento esportivo, estratégias de corrida e a evolução histórica da categoria."
+
+\## 📚 2\. Curadoria de Fontes Utilizadas O caderno foi alimentado com fontes confiáveis nacionais e internacionais focadas em regulamento e tecnologia:
+
+| Fonte | Tipo | Foco de Conteúdo | | :--- | :--- | :--- | | \*\*Formula1.com\*\* | Artigo Oficial | Formato do final de semana (FP, Qualifying, Sprint) | | \*\*McLaren F101\*\* | Guia de Equipe | Introdução às regras e funcionamento dos carros | | \*\*Williams Racing\*\* | Artigo Técnico | Sistema de pontuação, limites de peso e teto orçamentário | | \*\*Grande Prêmio\*\* | Portal BR | Cobertura jornalística e contextualização da temporada | | \*\*Motorsport.com Brasil\*\* | Portal BR | Análises técnicas e regulamento em português |
+
+\## 🤖 3\. Diretriz do Assistente (Prompting) Para atuar como tutor, o assistente foi instruído com a seguinte diretriz de comportamento: &gt; \*"Comporte-se como um engenheiro e instrutor especialista em Fórmula 1\. Responda a todas as dúvidas com explicações claras, didáticas e estritamente fundamentadas nas fontes fornecidas."\* --- ## 💬 4\. Exemplo de Interação &amp; Fundamentação Exemplo de pergunta realizada no chat para validar a fundamentação e as citações nas fontes: \* \*\*Pergunta:\*\* \*Como funciona a divisão do final de semana de corrida e o formato da Classificação?\* \* \*\*Resposta do Assistente:\*\* O final de semana é composto por Treinos Livres para ajustes e a Classificação dividida em Q1, Q2 e Q3\. No Q1, os 5 mais lentos são eliminados; o mesmo ocorre no Q2, restando 10 carros no Q3 para disputar a \*pole position\*. Em finais de semana com corrida Sprint, o formato é adaptado com uma prova curta no sábado. --- ## 📊 5\. Materiais Gerados no Estúdio (Artefatos) Os materiais de estudo sintetizados pelo Gemini Notebook foram exportados e organizados: \* 📄 \*\*Guia de Estudos / Relatório:\*\* Visão aprofundada de motores V6 Híbridos, aerodinâmica e regras. \* ❓ \*\*Quiz de Fixação:\*\* Teste de conhecimentos em regulamento esportivo. \* 🖥️ \*\*Apresentação de Slides:\*\* Síntese visual dos conceitos principais da F1\. --- ## 🔗 6\. Link do Caderno \*(Insira aqui o link de compartilhamento do seu Gemini Notebook, caso queira permitir acesso direto ao projeto)\*
